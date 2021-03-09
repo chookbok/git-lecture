@@ -1,4 +1,7 @@
-# Logs
+# 텍스트 유형 무시
+*.txt
+
+
 logs
 *.log
 npm-debug.log*
